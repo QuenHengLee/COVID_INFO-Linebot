@@ -1,0 +1,10 @@
+{'query': '訂閱疫情'
+, 'prediction': {'topIntent': '推播設定', 
+                'intents': {'推播設定': {'score': 0.95394987}, '國家疫情現況': {'score': 0.047887474}, 'None': {'score': 0.008745101}, '國家法規資訊': {'score': 0.0013433684}, '旅遊資訊系統': {'score': 0.0011492111}, '國家當地新聞': {'score': 4.9866157e-05}},
+                'entities': {'目的_推播': ['訂閱'],
+                            '推播類別_疫情': ['疫情'],
+                            '$instance': {'目的_推播': [{'type': '目的_推播', 'text': '訂閱', 'startIndex': 0, 'length': 2, 'score': 0.9821113, 'modelTypeId': 1, 'modelType': 'Entity Extractor', 'recognitionSources': ['model']}]
+                            , '推播類別_疫情': [{'type': '推播類別_疫情', 'text': '疫情', 'startIndex': 2, 'length': 2, 'score': 0.960769, 'modelTypeId': 1, 'modelType': 'Entity Extractor', 'recognitionSources': ['model']}]}
+        }
+    }
+}

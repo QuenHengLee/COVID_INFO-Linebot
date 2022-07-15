@@ -1,0 +1,24 @@
+{'query': '日本疫情現況', 'prediction': {'topIntent': '國家疫情現況', 'intents': {'國家疫情現況': {'score': 0.93368644
+            }, '推播設定': {'score': 0.10013104
+            }, '國家法規資訊': {'score': 0.0044917483
+            }, 'None': {'score': 0.0030231327
+            }, '旅遊資訊系統': {'score': 0.0007272945
+            }, '國家當
+地新聞': {'score': 0.0005925213
+            }
+        }, 'entities': {'地點': ['日本'
+            ], '目的-疫情': ['疫情現況'
+            ], '$instance': {'地點': [
+                    {'type': '地點', 'text': '日本', 'startIndex': 0, 'length': 2, 'score': 0.97983795, 'modelTypeId': 1, 'modelType': 'Entity Extractor', 'recognitionSources': ['model'
+                        ]
+                    }
+                ], '目的-疫情': [
+                    {'type': '目的-疫情', 'text': '疫情現況', 'startIndex': 2, 'length': 4, 'score': 0.652555, 'modelTypeId': 1, 'modelType': 'Entity Extractor', 'recognitionSources': ['model'
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}
+國家：日本 動機：疫情現況
